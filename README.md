@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">👋 Hey, I'm Vijaya <br><br>📍 Operations Analyst | 📊 Data Enthusiast | 🔧 Problem Solver<br><br>I specialize in analyzing processes, identifying inefficiencies, and delivering actionable insights that drive operational success.<br><br>- 🛠️ Tools: SQL | Excel | Selenium with Java | AWS | Jenkins<br>- 🎯 Passionate about data-driven improvements and automation<br>- 🤝 Always up for solving complex operational puzzles<br><br>Let’s collaborate and build better systems together!</h1>
 
 ###
 
@@ -77,5 +77,21 @@
 
 <div align="left">
 </div>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<p align="left">Hello World!!</p>
 
 ###
